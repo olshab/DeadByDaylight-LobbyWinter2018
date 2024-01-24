@@ -1,0 +1,2 @@
+Content\Meshes\Environment\Tiles\SM_GT_Fr_32x32_Lobby.uasset - modified ground mesh (can't use cooked mesh from this project because of collision issues)
+Content\Blueprints\Props\BP_MenuSilhouette.uasset - hidden particles for invite buttons
