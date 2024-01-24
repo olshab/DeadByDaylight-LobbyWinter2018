@@ -1,1 +1,1 @@
-# Latest supported DBD version: 7.4.2
+# Winter Solstice 2018 Lobby
